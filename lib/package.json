@@ -24,6 +24,7 @@
     "gulp-uglify-es": "^2.0.0",
     "rollup": "^2.15.0",
     "rollup-plugin-typescript2": "^0.27.1",
-    "typescript": "^3.9.5"
+    "typescript": "^3.9.5",
+    "matched": "^4.0.0"
   }
 }
