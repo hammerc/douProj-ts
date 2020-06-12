@@ -2,5 +2,6 @@
 .tscache/
 node_modules/
 bin/
+dest/
 
 package-lock.json

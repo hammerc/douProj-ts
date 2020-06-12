@@ -16,7 +16,7 @@
 
 ## 3. 安装依赖库
 
-```npm install --save-dev typescript gulp gulp-typescript rollup rollup-plugin-typescript2```
+```npm install --save-dev typescript gulp gulp-typescript rollup rollup-plugin-typescript2 del gulp-rename gulp-uglify-es```
 
 ## 4. 创建 ```gulpfile.js``` 文件
 
