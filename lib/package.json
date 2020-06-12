@@ -1,0 +1,26 @@
+{
+  "name": "douproj-ts",
+  "version": "1.0.0",
+  "description": "项目开发示例，从零开始搭建一个 dou2d 项目。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hammerc/douProj-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hammerc/douProj-ts/issues"
+  },
+  "homepage": "https://github.com/hammerc/douProj-ts#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "rollup": "^2.15.0",
+    "rollup-plugin-typescript2": "^0.27.1",
+    "typescript": "^3.9.5"
+  }
+}
